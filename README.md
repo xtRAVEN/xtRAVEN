@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Umair+Sarwar+%F0%9F%91%8B;Full-Stack+Architect+%26+System+Builder;GeoDjango+%26+PostGIS+Specialist;AI+Agents+%26+Vector+Pipelines;Creator+of+TazkiyaDaily.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Umair+Sarwar+%F0%9F%91%8B;Full-Stack+Architect+%26+System+Builder;LangGraph+%26+PydanticAI+Agent+Architect;GeoDjango+%26+PostGIS+Specialist;Creator+of+TazkiyaDaily.com" alt="Typing SVG" />
 
   <p align="center">
-    <strong>Self-taught Full-Stack Architect & System Builder</strong> based in Lahore, Pakistan.<br/>
-    Specialized in building end-to-end production systems: from database architecture and geospatial queries to reactive frontends and cloud DevOps.
+    <strong>Self-taught Full-Stack Architect & AI System Builder</strong> based in Lahore, Pakistan.<br/>
+    Specialized in building end-to-end production systems: from database architecture and geospatial queries to reactive frontends, stateful AI agent graphs, and cloud DevOps.
   </p>
 
   <p align="center">
@@ -31,10 +31,10 @@
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
+| **AI & Agentic Systems**| `LangGraph` `LangChain` `PydanticAI` `Multi-Agent Orchestration` `Stateful Agent Workflows` `Tool Calling` `Structured Outputs` `Vector Embeddings (1536-dim)` `Semantic Search / RAG` |
 | **Backend & Async** | `Python` `Django 5` `Django REST Framework` `GeoDjango` `Celery` `Redis` `Django Channels (WebSockets)` `Gunicorn` |
 | **Frontend & Mobile** | `React` `TypeScript` `TanStack Query` `Tailwind CSS` `Shadcn UI` `Framer Motion` `React Native (Expo)` |
 | **Geospatial / GIS** | `PostGIS` `MapLibre GL` `LeafletJS` `GeoJSON` `GDAL` `Shapefile Management` `Spatial BBOX Filtering` |
-| **AI & Agentic Systems**| `PydanticAI` `Claude API` `Tool Calling` `Structured Outputs` `Vector Embeddings (1536-dim)` `Semantic Search` |
 | **DevOps & Cloud** | `Docker` `Docker Compose` `Railway` `DigitalOcean (VPS / systemd)` `Nginx Reverse Proxy` `AWS S3` `Wasabi` |
 
 </div>
