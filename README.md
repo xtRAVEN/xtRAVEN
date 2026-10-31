@@ -110,13 +110,7 @@
 
 ---
 
-### 📊 Production Engineering & Multi-Repo Metrics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/xtRAVEN/xtRAVEN/main/github-metrics.svg" alt="Full-Stack Production Metrics" width="100%" />
-</div>
-
-<br/>
+### 📊 Activity & Contribution Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=xtRAVEN&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" alt="GitHub Streak" />
