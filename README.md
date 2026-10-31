@@ -12,6 +12,12 @@
     <a href="https://tazkiyadaily.com"><img src="https://img.shields.io/badge/Public_App-TazkiyaDaily.com-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
     <img src="https://img.shields.io/badge/Status-Open_To_Work_Globally-brightgreen?style=for-the-badge" />
   </p>
+
+  <p align="center">
+    <a href="https://github.com/xtRAVEN/architecture-case-studies">
+      <img src="https://img.shields.io/badge/🏛️_System_Architecture_Case_Studies-Deep_Dive_Blueprints-6366F1?style=for-the-badge&logo=gitbook&logoColor=white" alt="Architecture Case Studies" />
+    </a>
+  </p>
 </div>
 
 ---
