@@ -110,11 +110,18 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📈 Production Engineering Highlights
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xtRAVEN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=22D3EE&text_color=94A3B8" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xtRAVEN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=94A3B8" height="160" alt="Top Languages" />
+
+| Metric | Engineering Achievement | Core Stack Involved |
+| :---: | :--- | :--- |
+| **33,000+** | Indexed Vector Records & Embeddings for Semantic Mood Search | `PydanticAI` `Vector DB` `Python` |
+| **1,100+** | GitHub Engineering Contributions across Production & Enterprise Repos | `Full-Lifecycle Git` `CI/CD` |
+| **9 Roles** | Document Workflow & Audit Trail Engine with Scoped Permissions | `Django 5` `DRF` `PostgreSQL` |
+| **BBOX GIS** | Real-time Geospatial Spatial Bounding-box Query & Clustering Engine | `GeoDjango` `PostGIS` `MapLibre GL` |
+| **Multi-Stage** | Production Dockerized Deployments with Nginx & Background Workers | `Docker` `Celery` `Redis` `Railway` |
+
 </div>
 
 <br/>
