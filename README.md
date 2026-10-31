@@ -110,18 +110,10 @@
 
 ---
 
-### 📈 Production Engineering Highlights
+### 📊 Production Engineering & Multi-Repo Metrics
 
 <div align="center">
-
-| Metric | Engineering Achievement | Core Stack Involved |
-| :---: | :--- | :--- |
-| **33,000+** | Indexed Vector Records & Embeddings for Semantic Mood Search | `PydanticAI` `Vector DB` `Python` |
-| **1,100+** | GitHub Engineering Contributions across Production & Enterprise Repos | `Full-Lifecycle Git` `CI/CD` |
-| **9 Roles** | Document Workflow & Audit Trail Engine with Scoped Permissions | `Django 5` `DRF` `PostgreSQL` |
-| **BBOX GIS** | Real-time Geospatial Spatial Bounding-box Query & Clustering Engine | `GeoDjango` `PostGIS` `MapLibre GL` |
-| **Multi-Stage** | Production Dockerized Deployments with Nginx & Background Workers | `Docker` `Celery` `Redis` `Railway` |
-
+  <img src="https://raw.githubusercontent.com/xtRAVEN/xtRAVEN/main/github-metrics.svg" alt="Full-Stack Production Metrics" width="100%" />
 </div>
 
 <br/>
