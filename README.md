@@ -113,14 +113,14 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xtRAVEN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=22D3EE&text_color=94A3B8" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtRAVEN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=94A3B8" height="160" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xtRAVEN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=22D3EE&text_color=94A3B8" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xtRAVEN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=94A3B8" height="160" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xtRAVEN&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=xtRAVEN&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" alt="GitHub Streak" />
 </div>
 
 ---
