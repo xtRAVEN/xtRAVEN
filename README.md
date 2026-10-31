@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Umair+Sarwar+%F0%9F%91%8B;Full-Stack+Architect+%26+System+Builder;GeoDjango+%26+PostGIS+Specialist;AI+Agents+%26+Vector+Pipelines;Creator+of+TazkiyaDaily.com" alt="Typing SVG" />
 
   <p align="center">
-    <strong>Self-taught Full-Stack Architect & Product Builder</strong> based in Lahore, Pakistan.<br/>
+    <strong>Self-taught Full-Stack Architect & System Builder</strong> based in Lahore, Pakistan.<br/>
     Specialized in building end-to-end production systems: from database architecture and geospatial queries to reactive frontends and cloud DevOps.
   </p>
 
   <p align="center">
     <a href="mailto:umr0042@gmail.com"><img src="https://img.shields.io/badge/Email-umr0042%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://wa.me/923220721770"><img src="https://img.shields.io/badge/WhatsApp-%2B92_322_0721770-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <a href="https://loda.ma"><img src="https://img.shields.io/badge/Portfolio-LODA.MA-008080?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+    <a href="https://tazkiyadaily.com"><img src="https://img.shields.io/badge/Public_App-TazkiyaDaily.com-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
     <img src="https://img.shields.io/badge/Status-Open_To_Work_Globally-brightgreen?style=for-the-badge" />
   </p>
 </div>
@@ -41,30 +41,29 @@
 
 ---
 
-### 🚀 Featured Platforms & Production Architectures
+### 🚀 Production Platforms & Engineering Work
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🕌 Tazkiya Daily</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Role-Creator_%26_Sole_Developer-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-Personal_Public_App-blueviolet?style=flat-square" />
         <img src="https://img.shields.io/badge/Status-Live_Platform-brightgreen?style=flat-square" />
         <img src="https://img.shields.io/badge/Mobile-Android_APK-success?style=flat-square" />
       </p>
-      <p>Independent spiritual & knowledge platform built for public benefit. Houses <strong>33,000+ records</strong> with 1536-dim vector embeddings, semantic mood filtering via <strong>PydanticAI</strong>, push notifications, and cross-platform Android release.</p>
+      <p>My independent public application built for spiritual knowledge. Houses <strong>33,000+ records</strong> with 1536-dim vector embeddings, semantic mood-based recommendation via <strong>PydanticAI</strong>, push notifications, and cross-platform Android release.</p>
       <p><strong>Stack:</strong> Python, PydanticAI, Vector DB, React, Tailwind CSS, Railway</p>
-      <p align="center"><a href="https://tazkiyadaily.com"><strong>🌐 Explore Tazkiya Daily →</strong></a></p>
+      <p align="center"><a href="https://tazkiyadaily.com"><strong>🌐 Visit TazkiyaDaily.com →</strong></a></p>
     </td>
     <td width="50%">
       <h3 align="center">🗺️ LODA.MA</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Role-Full--Stack_Lead-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Live_Platform-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-Commercial_Platform-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Live_System-brightgreen?style=flat-square" />
       </p>
-      <p>High-performance Moroccan real estate and land listing platform. Features interactive GIS mapping, bounding-box spatial queries via <strong>PostGIS</strong>, dynamic GeoJSON markers on <strong>MapLibre GL</strong>, JWT authentication, and seller analytics.</p>
+      <p>Moroccan real estate and land listing platform. Built with interactive GIS mapping, bounding-box spatial queries via <strong>PostGIS</strong>, dynamic GeoJSON property markers on <strong>MapLibre GL</strong>, JWT authentication, and seller analytics.</p>
       <p><strong>Stack:</strong> Django, GeoDjango, PostGIS, React, TypeScript, MapLibre GL, Tailwind</p>
-      <p align="center"><a href="https://loda.ma"><strong>🌐 Explore LODA.MA →</strong></a></p>
     </td>
   </tr>
   <tr>
